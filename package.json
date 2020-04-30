@@ -61,7 +61,7 @@
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
     "grunt": "^1.0.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.12.0"
   }
 }
